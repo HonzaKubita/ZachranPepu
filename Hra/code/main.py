@@ -4,6 +4,10 @@ import os
 from pygame.locals import *
 from pygame import mixer
 
+# -----------------------------------------------------------------------------------------------------------------------------------------------------------------
+# Podkud to tady nekdo procita tak mejte na pameti ze kdyz sem tohle psal tak mi bylo tak 13 takze je to hnus z pohledu efektivity a ted bych to napsal mnohem lip
+# -----------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 version = "Alpha 1.2"
 
 pygame.init()
